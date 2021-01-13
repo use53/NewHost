@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorStart">#8DE38E</color>
+    <color name="colorEnd">#4DD713</color>
+    <color name="colorCenter">#3E60E6</color>
+    <color name="colorOq">#F5F5F8</color>
+    <color name="onestart">#F32D98CA</color>
+    <color name="onecenter">#E2395FD5</color>
+    <color name="oneend">#BE010D3A</color>
+    <color name="colorYashil">#C10515</color>
+    <color name="colorrecstart">#ED90D6</color>
+    <color name="colorrecend">#7105B3</color>
+    <color name="nointernet">#E9E8EA</color>
+    <color name="firstprogress">#9C2DE1</color>
+    <color name="rec_start">#B76050E8</color>
+    <color name="rec_end">#CCA793</color>
+</resources>
